@@ -8,11 +8,16 @@ body{
 }
 
 .imagem{
-    text-align: center;
-	width: 70%;
+	margin-left: 50px;
+	width: 90%;
 }
 .DESTAQUE{
 	text-align: center;
+}
+.gameplay{
+	text-align: center;
+	
+     
 }
 .ajuste-video{
 	text-align: center;
