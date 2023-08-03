@@ -1,5 +1,5 @@
 body{
- 
+ background-color: aquamarine;
 }
 
 .titulo-principal{
@@ -8,7 +8,7 @@ body{
 }
 
 .imagem{
-	margin-left: 50px;
+	margin-left: 65px;
 	width: 90%;
 }
 .DESTAQUE{
